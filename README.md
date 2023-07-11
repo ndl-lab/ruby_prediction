@@ -1,4 +1,4 @@
-# ruby_prediction(NDLOCR ver.2用)
+# ruby_prediction(NDLOCR(ver.2)用漢字読み推定モジュール)
 
 NDLOCR(ver.2)用のテキストの漢字の読みを推定するモジュールのリポジトリです。
 
